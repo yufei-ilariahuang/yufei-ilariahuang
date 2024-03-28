@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lia Huang</h1>
-<h3 align="center">As a passionate full-stack developer, my journey in the tech landscape is as diverse as my browser tab collection, spanning across art, design, business, marketing, and finance. Yes, I'm the Swiss Army knife in a tech toolbox, equally comfortable discussing Picasso as I am Python. 
-  
-  Having globe-trotted across 10+ countries,I've picked up more than just souvenirs; I've absorbed a rich tapestry of cultures that now fuel my approach to coding and collaboration. My mission? To evolve from just full-stack to "full-spectrum", blending art and analytics, creativity and code, into digital experiences that resonate globally. Whether it's turning coffee into code or translating market trends into meaningful metrics, I'm on a quest to bridge worlds—one commit at a time.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yufei-ilariahuang&label=Profile%20views&color=0e75b6&style=flat" alt="yufei-ilariahuang" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yufei-ilariahuang" alt="yufei-ilariahuang" /></a> </p>
+<h3 align="center">As a passionate full-stack developer, my journey in the tech landscape is as diverse as my browser tab collection, spanning across art, design, business, marketing, and finance. Yes, I'm the Swiss Army knife in a tech toolbox, equally comfortable discussing Picasso as I am Python. Having globe-trotted across 10+ countries,I've picked up more than just souvenirs; I've absorbed a rich tapestry of cultures that now fuel my approach to coding and collaboration. My mission? To evolve from just full-stack to "full-spectrum", blending art and analytics, creativity and code, into digital experiences that resonate globally. Whether it's turning coffee into code or translating market trends into meaningful metrics, I'm on a quest to bridge worlds—one commit at a time.</h3>
 
 - 🔭 I’m currently working on **raft project**
 
@@ -41,7 +35,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fayyyufeiw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fayyyufeiw" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yufei-ilariahuang&show_icons=true&locale=en&layout=compact" alt="yufei-ilariahuang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yufei-ilariahuang&show_icons=true&locale=en" alt="yufei-ilariahuang" /></p>
