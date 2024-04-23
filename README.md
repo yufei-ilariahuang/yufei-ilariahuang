@@ -4,16 +4,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yufei-lia-huang-615877229/](https://www.linkedin.com/in/yufei-lia-huang-615877229/)
 
-- ⚡ Fun fact **I think am fun and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@yufei-ilariahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@yufei-ilariahuang" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23855775/yufei-huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23855775/yufei-huang" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yufeiilariahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yufeiilariahuang" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/fayyyufei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/fayyyufei" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fayyyufei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fayyyufei" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@yufei-ilariahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@yufei-ilariahuang" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23855775/yufei-huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23855775/yufei-huang" height="20" width="20" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent" height="20" width="20" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/yufeiilariahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yufeiilariahuang" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/fayyyufei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/fayyyufei" height="20" width="20" /></a>
+<a href="https://www.leetcode.com/fayyyufei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fayyyufei" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
