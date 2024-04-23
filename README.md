@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lia Huang</h1>
 
-- 🔭 I’m currently working on **raft project**
-
-- 🌱 I’m currently learning **React.JS**
-
-- 👯 I’m looking to collaborate on [MEARN project](https://github.com/yufei-ilariahuang/MEARN-estate)
-
-- 🤝 I’m looking for help with **solidity**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yufei-ilariahuang](https://github.com/yufei-ilariahuang)
-
-- 💬 Ask me about **vue, react**
-
 - 📫 How to reach me **fayyyufei@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yufei-lia-huang-615877229/](https://www.linkedin.com/in/yufei-lia-huang-615877229/)
